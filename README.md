@@ -1,4 +1,4 @@
-# MSI 微星B460 Igaming ITX EFI，基于OC0.6.3，系统版本10.10.5<br/>
+# MSI 微星B460 Igaming ITX EFI，基于OC0.6.3，系统版本10.15.7<br/>
 一、我的配置：<br/>
 主板：MSI 微星B460 Igaming ITX EFI<br/>
 CPU：I7-10700<br/>
