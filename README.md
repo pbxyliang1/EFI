@@ -13,4 +13,7 @@ CPU：I7-10700<br/>
 3、接力<br/>
 4、睡眠需要按电源键唤醒<br/>
 5、图形化引导界面、开机音效。由于文件大小限制，请自行前往https://github.com/acidanthera/ocbinarydata
-下载，将Resources文件夹放入OC目录下。
+下载，将Resources文件夹放入OC目录下。<br/>
+
+BIOS设置请参考：https://www.bilibili.com/read/cv7670096/ <br/>
+<font color=red size=4>注意：CFG Lock要打开！</font>
